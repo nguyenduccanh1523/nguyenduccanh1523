@@ -18,6 +18,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/.NET-282C34?logo=.NET&logoColor=5C2D91" alt=".NET logo" title=".NET" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Android%20Studio-282C34?logo=android-studio&logoColor=3DDC84" alt="Android Studio logo" title="Android Studio" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=007396" alt="Java logo" title="Java" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -30,7 +34,13 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Next.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Vuetify-282C34?logo=vuetify&logoColor=AED581" alt="Vuetify logo" title="Vuetify" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Strapi-282C34?logo=strapi&logoColor=22A7F0" alt="Strapi logo" title="Strapi" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
@@ -39,6 +49,20 @@
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=336791" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/SQLite-282C34?logo=sqlite&logoColor=003B57" alt="SQLite logo" title="SQLite" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/n8n-282C34?logo=n8n&logoColor=22A7F0" alt="n8n logo" title="n8n" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stack-overflow&logoColor=F58025" alt="Stack Overflow logo" title="Stack Overflow" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Socket.io-282C34?logo=socket.io&logoColor=FFFFFF" alt="Socket.io logo" title="Socket.io" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
@@ -52,16 +76,16 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
+<span><img src="https://img.shields.io/badge/React%20Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/React%20Bootstrap-282C34?logo=react&logoColor=61DAFB" alt="React Bootstrap logo" title="React Bootstrap" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
+<span><img src="https://img.shields.io/badge/freecodecamp-282C34?logo=freecodecamp&logoColor=0A0A23" alt="freecodecamp logo" title="freecodecamp" height="25" /></span>
 &nbsp;
-
-
 
 
 
