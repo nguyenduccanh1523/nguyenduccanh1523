@@ -107,4 +107,9 @@
 
 <br>
 
-
+<br>
+<h2 align="center">📑 My Favorites Quote 📑</h2>
+<br>
+<div align="center">
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
+</div>
