@@ -107,9 +107,12 @@
   
 </div>
 
+
+<div align=center>
 <a href="#" title="NDCdev">
     <img align="center" width="434" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenduccanh1523&theme=react&hide_border=false" />
 </a>
+</div>
 
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
