@@ -84,7 +84,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+<span><img src="https://img.shields.io/badge/agora-282C34?logo=agora&logoColor=00A88B" alt="agora logo" title="agora" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/freecodecamp-282C34?logo=freecodecamp&logoColor=0A0A23" alt="freecodecamp logo" title="freecodecamp" height="25" /></span>
 &nbsp;
