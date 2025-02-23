@@ -58,6 +58,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stack-overflow&logoColor=F58025" alt="Stack Overflow logo" title="Stack Overflow" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/ngrok-282C34?logo=ngrok&logoColor=00A88B" alt="ngrok logo" title="ngrok" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Socket.io-282C34?logo=socket.io&logoColor=FFFFFF" alt="Socket.io logo" title="Socket.io" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
@@ -67,6 +69,8 @@
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Ant%20Design-282C34?logo=ant-design&logoColor=0170FE" alt="Ant Design logo" title="Ant Design" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
