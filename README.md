@@ -46,6 +46,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/PHPMyAdmin-282C34?logo=phpMyAdmin&logoColor=6BB4B1" alt="PHPMyAdmin logo" title="PHPMyAdmin" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=336791" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
@@ -53,6 +55,10 @@
 <span><img src="https://img.shields.io/badge/SQLite-282C34?logo=sqlite&logoColor=003B57" alt="SQLite logo" title="SQLite" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/n8n-282C34?logo=n8n&logoColor=22A7F0" alt="n8n logo" title="n8n" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Laragon-282C34?logo=laragon&logoColor=00A88B" alt="Laragon logo" title="Laragon" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/XAMPP-282C34?logo=xampp&logoColor=00A88B" alt="XAMPP logo" title="XAMPP" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" /></span>
 &nbsp;
