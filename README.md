@@ -36,10 +36,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Vuetify-282C34?logo=vuetify&logoColor=AED581" alt="Vuetify logo" title="Vuetify" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Strapi-282C34?logo=strapi&logoColor=22A7F0" alt="Strapi logo" title="Strapi" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
@@ -75,10 +71,6 @@
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/React%20Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/React%20Bootstrap-282C34?logo=react&logoColor=61DAFB" alt="React Bootstrap logo" title="React Bootstrap" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
