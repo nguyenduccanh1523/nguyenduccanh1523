@@ -108,8 +108,8 @@
 <br>
 
 <br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<h2 align="center">📑 Random Quote 📑</h2>
 <br>
 <div align="center">
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark" alt="Quote" />
 </div>
